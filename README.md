@@ -1,8 +1,13 @@
 # A Timeline component in React
 
 - To run the application:
-$ yarn
-$ yarn start
+
+```sh
+yarn
+yarn start
+```
 
 - To run tests:
-$ yarn test
+```sh
+yarn test
+```
